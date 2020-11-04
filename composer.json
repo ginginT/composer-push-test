@@ -1,14 +1,7 @@
 {
     "name": "gingin/composer-push-test",
-    "description": "composer-push-test",
-    "type": "project",
-    "license": "none",
-    "authors": [
-        {
-            "name": "Gin",
-            "email": "X_SJian@163.com"
-        }
-    ],
-    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "description": "composer push test",
+    "type": "library",
     "require": {}
 }
